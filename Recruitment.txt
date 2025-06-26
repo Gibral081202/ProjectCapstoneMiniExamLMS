@@ -1,0 +1,18 @@
+# Required Libraries for MiniExamLMS
+
+react
+react-dom
+react-router-dom
+firebase
+tailwindcss
+postcss
+autoprefixer
+
+# (Optional, for testing)
+@testing-library/react
+@testing-library/jest-dom
+
+# (Optional, for development)
+react-scripts
+
+# Make sure to run 'npm install' to install all dependencies listed in package.json. 
