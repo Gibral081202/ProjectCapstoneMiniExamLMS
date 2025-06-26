@@ -89,12 +89,4 @@ miniexamlms/
 ├── postcss.config.js
 └── README.md
 ```
-
-## Deployment (Netlify)
-- Build the app with `npm run build`.
-- Deploy the `build/` folder to Netlify.
-- Set the same environment variables in Netlify's dashboard for production.
-
----
-
 **Enjoy your secure, modern, and easy-to-use MiniExamLMS!**
